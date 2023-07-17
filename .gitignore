@@ -1,0 +1,15 @@
+# Directories
+node_modules/       # Node.js dependencies
+dist/               # Build output directory
+build/              # Build output directory
+.env/               # Environment-specific configuration
+logs/               # Log files
+tmp/                # Temporary files
+
+# Files
+.env.local          # Local environment configuration
+.env.*              # Environment-specific configuration
+*.log               # Log files
+*.swp               # Vim swap files
+*.DS_Store          # macOS folder metadata files
+Thumbs.db           # Windows thumbnail cache
