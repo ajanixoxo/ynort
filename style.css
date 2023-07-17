@@ -206,10 +206,10 @@ a .fnt{
 @media screen and (max-width: 768px) {
   #main-home {
      width: 100%;
-    background-image:url(ynort\ pic/g4.1.jpg);
+    background-image:URL("../ynort\ pic/g4.1.jpg");
     height: 100vh; 
     margin-top:10%;
-    background-color:transparent
+    background-color:transparent;
 
   }
 
